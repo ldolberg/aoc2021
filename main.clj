@@ -1,1 +1,1 @@
-(load-file "day3.clj")
+(load-file "day6.clj")
